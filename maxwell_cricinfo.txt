@@ -1,0 +1,143 @@
+Balls faced: 5
+Bowler: Bumrah
+Over:39
+Shot: DEFENDED
+run scored: 0
+OUT! {"short": "bowled", "long": " b Bumrah", "commentary": "Glenn Maxwell b Bumrah 5 (7b 0x4 0x6 8m) SR: 71.42"}
+<strong>bowled him! Stunning yorker!</strong> The last slower ball was 122kph and this was 142.3kph yorker speared at the base of off and it gets under Maxwell's bat as he tries to open the face to glide to third. Brilliant bowling from Bumrah
+Balls faced: 14
+Bowler: Bumrah
+Over:39
+Shot: DEFENDED
+run scored: 0
+OUT! {"short": "bowled", "long": " b Bumrah", "commentary": "Glenn Maxwell b Bumrah 5 (7b 0x4 0x6 8m) SR: 71.42"}
+<strong>bowled him! Stunning yorker!</strong> The last slower ball was 122kph and this was 142.3kph yorker speared at the base of off and it gets under Maxwell's bat as he tries to open the face to glide to third. Brilliant bowling from Bumrah
+Balls faced: 4
+Bowler: Shariz Ahmad
+Over:10
+No Shot
+run scored: 0
+OUT! {"short": "caught", "long": "c van Beek b Shariz Ahmad", "commentary": "Glenn Maxwell c van Beek b Shariz Ahmad 5 (6b 1x4 0x6) SR: 83.33"}
+Balls faced: 10
+Bowler: Shariz Ahmad
+Over:10
+No Shot
+run scored: 0
+OUT! {"short": "caught", "long": "c van Beek b Shariz Ahmad", "commentary": "Glenn Maxwell c van Beek b Shariz Ahmad 5 (6b 1x4 0x6) SR: 83.33"}
+Balls faced: 39
+Bowler: Nawaz
+Over:30
+No Shot
+run scored: 0
+OUT! {"short": "run out", "long": "run out (Shadab Khan/Mohammad Nawaz)", "commentary": "Alex Carey run out (Shadab Khan/Mohammad Nawaz) 11 (14b 1x4 0x6) SR: 78.57"}
+<strong>Huge mix-up</strong> and that's that for Carey. Slower through the air outside off, slapped to cover. Maxwell just took a couple of steps forward but retreated as soon as he spotted Shadab get to the ball. But Carey was a long way down and the throw was spot on to the bowler
+Balls faced: 53
+Bowler: Nawaz
+Over:30
+No Shot
+run scored: 0
+OUT! {"short": "run out", "long": "run out (Shadab Khan/Mohammad Nawaz)", "commentary": "Alex Carey run out (Shadab Khan/Mohammad Nawaz) 11 (14b 1x4 0x6) SR: 78.57"}
+<strong>Huge mix-up</strong> and that's that for Carey. Slower through the air outside off, slapped to cover. Maxwell just took a couple of steps forward but retreated as soon as he spotted Shadab get to the ball. But Carey was a long way down and the throw was spot on to the bowler
+Balls faced: 131
+Bowler: Shadab
+Over:41
+No Shot
+run scored: 0
+[{"type": "HTML", "html": "FahadMQ: \"Danyal your arrival should bring some wickets for PAK as it did in earlier overs\" Good start, huh?"}]FahadMQ: "Danyal your arrival should bring some wickets for PAK as it did in earlier overs" Good start, huh?
+OUT! {"short": "caught", "long": "c Babar Azam b Shadab Khan", "commentary": "Glenn Maxwell c Babar Azam b Shadab Khan 77 (71b 4x4 6x6) SR: 108.45"}
+wrong'un rips back in at pace, and he defends
+Balls faced: 140
+Bowler: Shadab
+Over:41
+No Shot
+run scored: 0
+[{"type": "HTML", "html": "FahadMQ: \"Danyal your arrival should bring some wickets for PAK as it did in earlier overs\" Good start, huh?"}]FahadMQ: "Danyal your arrival should bring some wickets for PAK as it did in earlier overs" Good start, huh?
+OUT! {"short": "caught", "long": "c Babar Azam b Shadab Khan", "commentary": "Glenn Maxwell c Babar Azam b Shadab Khan 77 (71b 4x4 6x6) SR: 108.45"}
+wrong'un rips back in at pace, and he defends
+Balls faced: 47
+Bowler: Kuldeep
+Over:36
+Shot: PULL
+run scored: 0
+OUT! {"short": "bowled", "long": " b Kuldeep Yadav", "commentary": "Glenn Maxwell b Kuldeep Yadav 15 (25b 1x4 0x6 44m) SR: 60"}
+<b>timbeeeeeeeer! Maxwell loses his leg stump!</b> Big spin from Kuldeep and he's chopped in half trying to play off the back foot. Zipped through on the stumps, grips the pitch and veers back sharply to decapitate leg, plucked from the ground as Maxwell flailed across the line. Is that 220 out of the water?
+In comes the skipper, Patty Cummins
+Balls faced: 52
+Bowler: Kuldeep
+Over:36
+Shot: PULL
+run scored: 0
+OUT! {"short": "bowled", "long": " b Kuldeep Yadav", "commentary": "Glenn Maxwell b Kuldeep Yadav 15 (25b 1x4 0x6 44m) SR: 60"}
+<b>timbeeeeeeeer! Maxwell loses his leg stump!</b> Big spin from Kuldeep and he's chopped in half trying to play off the back foot. Zipped through on the stumps, grips the pitch and veers back sharply to decapitate leg, plucked from the ground as Maxwell flailed across the line. Is that 220 out of the water?
+In comes the skipper, Patty Cummins
+Balls faced: 33
+Bowler: Maharaj
+Over:17
+Shot: FLICK
+run scored: 0
+[{"type": "HTML", "html": "Hello, no time for pleasantries because..."}]Hello, no time for pleasantries because...
+OUT! {"short": "caught", "long": "c & b Maharaj", "commentary": "Glenn Maxwell c & b Maharaj 3 (17b 0x4 0x6 17m) SR: 17.64"}
+Maxwell closes the face as Maharaj dips one into his toes, and <B>the leading edge pops straight back at the bowler!</B> That is surely game, set and match! Australia are in a whole heap of doo-doo as South Africa swarm towards their second win of the campaign!
+Maxwell goes for an utterly becalmed 3 from 17, and well, is it just about preserving net run-rate from here? Stoinis might have other ideas for now...
+Balls faced: 34
+Bowler: Maharaj
+Over:17
+Shot: FLICK
+run scored: 0
+[{"type": "HTML", "html": "Hello, no time for pleasantries because..."}]Hello, no time for pleasantries because...
+OUT! {"short": "caught", "long": "c & b Maharaj", "commentary": "Glenn Maxwell c & b Maharaj 3 (17b 0x4 0x6 17m) SR: 17.64"}
+Maxwell closes the face as Maharaj dips one into his toes, and <B>the leading edge pops straight back at the bowler!</B> That is surely game, set and match! Australia are in a whole heap of doo-doo as South Africa swarm towards their second win of the campaign!
+Maxwell goes for an utterly becalmed 3 from 17, and well, is it just about preserving net run-rate from here? Stoinis might have other ideas for now...
+Balls faced: 1
+Bowler: Shaheen Shah Afridi
+Over:34
+Shot: SLOG_SHOT
+run scored: 0
+[{"type": "HTML", "html": "Kunal: \"Wake Me Up Before You Go Go..\""}]Kunal: "Wake Me Up Before You Go Go.."
+OUT! {"short": "caught", "long": "c Babar Azam b Shaheen Shah Afridi", "commentary": "Glenn Maxwell c Babar Azam b Shaheen Shah Afridi 0 (1b 0x4 0x6 1m) SR: 0"}
+<strong>high in the air, and Pakistan have two in two</strong>. Maxwell falls for a golden duck trying to smear it over mid-on. Gets a top edge and Babar Azam makes no mistake
+Balls faced: 2
+Bowler: Shaheen Shah Afridi
+Over:34
+Shot: SLOG_SHOT
+run scored: 0
+[{"type": "HTML", "html": "Kunal: \"Wake Me Up Before You Go Go..\""}]Kunal: "Wake Me Up Before You Go Go.."
+OUT! {"short": "caught", "long": "c Babar Azam b Shaheen Shah Afridi", "commentary": "Glenn Maxwell c Babar Azam b Shaheen Shah Afridi 0 (1b 0x4 0x6 1m) SR: 0"}
+<strong>high in the air, and Pakistan have two in two</strong>. Maxwell falls for a golden duck trying to smear it over mid-on. Gets a top edge and Babar Azam makes no mistake
+Balls faced: 15
+Bowler: van der Merwe
+Over:43
+Shot: FLICK
+run scored: 1
+OUT! {"short": "run out", "long": "run out (Engelbrecht)", "commentary": "Cameron Green run out (Engelbrecht) 8 (11b 1x4 0x6 15m) SR: 72.72"}
+good length ball around off. Flicked to midwicket where nobody's there. They try to take a second and it looks on... but Engelbrecht runs in from long on, picks up the ball with one hand, and then throws down the stumps at the bowler's end! Green isn't even waiting... he's walking as the umpires go upstairs! Oh the Dutch have fielded superbly today.
+Balls faced: 28
+Bowler: van der Merwe
+Over:43
+Shot: FLICK
+run scored: 1
+OUT! {"short": "run out", "long": "run out (Engelbrecht)", "commentary": "Cameron Green run out (Engelbrecht) 8 (11b 1x4 0x6 15m) SR: 72.72"}
+good length ball around off. Flicked to midwicket where nobody's there. They try to take a second and it looks on... but Engelbrecht runs in from long on, picks up the ball with one hand, and then throws down the stumps at the bowler's end! Green isn't even waiting... he's walking as the umpires go upstairs! Oh the Dutch have fielded superbly today.
+Balls faced: 77
+Bowler: van Beek
+Over:50
+Shot: ON_DRIVE
+run scored: 0
+OUT! {"short": "caught", "long": "c Engelbrecht b van Beek", "commentary": "Glenn Maxwell c Engelbrecht b van Beek 106 (44b 9x4 8x6 53m) SR: 240.9"}
+<B>out, but not before producing one of the most entertaining ODI centuries of all time!</b> Maxwell tries to go over long off but this time the ball came off the bat's outside half. Engelbrecht takes a tough catch near the boundary and Maxwell is undone by the wide line. However the TV umpire wants to check if the catch is clean. Ja, all good.
+Balls faced: 44
+Bowler: Neesham
+Over:45
+Shot: SLOG_SHOT
+run scored: 0
+[{"type": "HTML", "html": "Around the wicket to Maxwell"}]Around the wicket to Maxwell
+OUT! {"short": "caught", "long": "c Boult b Neesham", "commentary": "Glenn Maxwell c Boult b Neesham 41 (24b 5x4 2x6 37m) SR: 170.83"}
+<strong>holes out to long-off! Huge scalp for Neesham!</strong> Good planning and execution. From around the wicket, he went wide and full, Maxwell stepped across and tried to launch over long-on and sliced it high to long-off and it's well held by Boult running in
+Balls faced: 50
+Bowler: Neesham
+Over:45
+Shot: SLOG_SHOT
+run scored: 0
+[{"type": "HTML", "html": "Around the wicket to Maxwell"}]Around the wicket to Maxwell
+OUT! {"short": "caught", "long": "c Boult b Neesham", "commentary": "Glenn Maxwell c Boult b Neesham 41 (24b 5x4 2x6 37m) SR: 170.83"}
+<strong>holes out to long-off! Huge scalp for Neesham!</strong> Good planning and execution. From around the wicket, he went wide and full, Maxwell stepped across and tried to launch over long-on and sliced it high to long-off and it's well held by Boult running in
