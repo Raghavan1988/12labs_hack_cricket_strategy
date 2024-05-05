@@ -3,7 +3,7 @@ from twelvelabs import TwelveLabs
 
 client = TwelveLabs(api_key=api_key_val)
 
-video_ids = [] ## list of video ids
+video_ids = ["66370d91d1cd5a287c957d14", "66370d91d1cd5a287c957d15", "66370d95d1cd5a287c957d16","663715d0d1cd5a287c957d17"]
 
 summary = ""
 
