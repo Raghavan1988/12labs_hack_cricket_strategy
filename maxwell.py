@@ -1,4 +1,4 @@
-api_key_val = "tlk_054T7PB14TAHJ82EPATGJ08NGYWW"
+api_key_val = "<API KEY>"
 from twelvelabs import TwelveLabs
 
 client = TwelveLabs(api_key=api_key_val)
